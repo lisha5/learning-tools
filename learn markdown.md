@@ -144,8 +144,8 @@ Lisa|11|11
 ```
 
 ``` java
-public class{
-  public static void main(String,args[]){
+public class markdown{
+  public static void main(String[] args){
     
     
   }
